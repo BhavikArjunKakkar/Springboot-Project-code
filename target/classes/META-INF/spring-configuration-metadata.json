@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.example.demo.JobCategoryController1",
+      "sourceType": "com.example.demo.JobCategoryController1"
+    }
+  ],
+  "properties": [
+    {
+      "name": "data",
+      "type": "java.lang.String",
+      "description": "Description for data."
+    },
+    {
+      "name": "database",
+      "type": "java.lang.String",
+      "description": "Description for database."
+    },
+    {
+      "name": "host",
+      "type": "java.lang.String",
+      "description": "Description for host."
+    },
+    {
+      "name": "mongodb",
+      "type": "java.lang.String",
+      "description": "Description for mongodb."
+    },
+    {
+      "name": "port",
+      "type": "java.lang.String",
+      "description": "Description for port."
+    },
+    {
+      "name": "spring",
+      "type": "java.lang.String",
+      "description": "Description for spring."
+    }
+  ],
+  "hints": []
+}

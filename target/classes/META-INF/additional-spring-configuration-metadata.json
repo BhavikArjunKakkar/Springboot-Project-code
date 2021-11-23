@@ -1,0 +1,35 @@
+{
+  "properties": [
+    {
+      "name": "spring",
+      "type": "java.lang.String",
+      "description": "Description for spring."
+    },
+    {
+      "name": "database",
+      "type": "java.lang.String",
+      "description": "Description for database."
+    },
+    {
+      "name": "port",
+      "type": "java.lang.String",
+      "description": "Description for port."
+    },
+    {
+      "name": "mongodb",
+      "type": "java.lang.String",
+      "description": "Description for mongodb."
+    },
+    {
+      "name": "data",
+      "type": "java.lang.String",
+      "description": "Description for data."
+    },
+
+    {
+      "name": "host",
+      "type": "java.lang.String",
+      "description": "Description for host."
+    }
+
+  ] }
